@@ -43,3 +43,25 @@ de batch. Testes simulam API; não exigem segredos. GitHub Actions executa teste
 em pushes e pull requests. Relatórios reais não são versionados por padrão.
 
 Veja [configuração cloud](docs/CODEX_CLOUD.md).
+
+
+## Fase 2 — Piloto da fechadura (rascunho, sem publicação)
+
+Os três ângulos de campanha, testes A/B de título e perguntas para identificar
+interesse qualificado em Florianópolis estão em
+[campaigns/fechadura-florianopolis.json](campaigns/fechadura-florianopolis.json).
+
+Para revisar a proposta sem conectar à Meta:
+- [Prévia completa das campanhas](docs/CAMPANHA_FECHADURA.md)
+- [Instruções de uso e limites](docs/FASE2.md)
+
+```bash
+cd meta-ads-manager
+PYTHONPATH=src python -m meta_ads.drafts --format markdown
+PYTHONPATH=src python -m meta_ads.drafts --format json
+PYTHONPATH=src python -m unittest discover -s tests -v
+```
+
+**Segurança:** a geração de rascunhos não executa requisições HTTP nem utiliza
+credenciais. A criação de anúncios e formulários reais continua bloqueada; requer
+aprovação comercial, URL de política de privacidade e permissões adicionais.

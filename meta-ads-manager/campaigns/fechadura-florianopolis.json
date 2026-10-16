@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "project": "Piloto de interesse — Fechadura digital inteligente",
+  "state": "draft",
+  "read_only": true,
+  "ad_account": "act_184261823230641",
+  "region": "Florianópolis, SC, Brasil",
+  "audience": "Pessoas adultas na região de Florianópolis; comunicar benefícios relevantes para perfis A/B sem presumir dados de renda individuais",
+  "objective": "Captação de interesse qualificado, não venda imediata",
+  "price_brl": {
+    "min": 1000,
+    "max": 1200,
+    "disclaimer": "Faixa indicativa para produto, instalação, configuração e suporte inicial. Confirmar compatibilidade da porta, prazo do suporte e condições de parcelamento antes da publicação."
+  },
+  "included": [
+    "Fechadura inteligente",
+    "Instalação profissional mediante avaliação de compatibilidade",
+    "Configuração inicial e orientação dos moradores",
+    "Suporte inicial por período a definir"
+  ],
+  "campaigns": [
+    {
+      "id": "seguranca",
+      "name": "Segurança e controle de acesso",
+      "hypothesis": "Controle de acesso, alertas e travamento configurável despertam interesse mesmo com fechadura tradicional funcionando.",
+      "primary_text": "A sua porta pode fazer muito mais do que abrir e fechar. Conheça uma fechadura inteligente com travamento automático configurável, reconhecimento facial, digitais, alertas de tentativas de acesso e câmera que você consulta pelo celular. Em Florianópolis, com instalação, configuração e suporte inicial incluídos. Solução indicativa entre R$ 1.000 e R$ 1.200.",
+      "headline_a": "Sua porta pode oferecer muito mais controle",
+      "headline_b": "Saiba quem acessa sua residência",
+      "visual_brief": "Demonstrar fechadura instalada e tela real de notificação, com dados pessoais ocultados. Sem dramatização de invasão.",
+      "cta": "Saiba mais"
+    },
+    {
+      "id": "familia_idosos",
+      "name": "Acompanhamento familiar",
+      "hypothesis": "Notificações de entrada e controle remoto interessam famílias que acompanham, com consentimento, idosos que moram sozinhos.",
+      "primary_text": "Mais tranquilidade para a família, mesmo à distância. Com acessos individuais cadastrados, a fechadura pode avisar quando alguém chegou, permitir verificar a entrada pelo celular e conferir o travamento da porta. Instalação, configuração e suporte inicial em Florianópolis. Faixa indicativa de R$ 1.000 a R$ 1.200.",
+      "headline_a": "Acompanhamento familiar, mesmo de longe",
+      "headline_b": "Receba notícias de quem chegou em casa",
+      "visual_brief": "Cena cotidiana de familiar recebendo aviso consentido de acesso no celular, sem expor nome, foto ou horário real de pessoa.",
+      "cta": "Saiba mais"
+    },
+    {
+      "id": "prestadores",
+      "name": "Gestão de acessos domésticos",
+      "hypothesis": "Histórico individualizado de acessos e notificações interessa a moradores que recebem diaristas, cuidadores e prestadores durante suas ausências.",
+      "primary_text": "Você nem sempre está em casa quando alguém precisa entrar. Com acessos individuais, a fechadura registra eventos de desbloqueio e travamento, envia alertas configuráveis e permite consultar a câmera pelo celular. Conheça a solução instalada e configurada em Florianópolis, com suporte inicial incluído. Faixa indicativa de R$ 1.000 a R$ 1.200.",
+      "headline_a": "Mais controle dos acessos à sua casa",
+      "headline_b": "Histórico de acessos no seu celular",
+      "visual_brief": "Exibir histórico demonstrativo de eventos no aplicativo com identidades fictícias; não apresentar registros como controle de jornada.",
+      "cta": "Saiba mais"
+    }
+  ],
+  "lead_form": {
+    "title": "Tenho interesse na fechadura inteligente instalada",
+    "intro": "Quer avaliar a instalação de uma fechadura inteligente em Florianópolis? Deixe seus dados para receber informações e verificar compatibilidade. Faixa indicativa de R$ 1.000 a R$ 1.200, incluindo instalação, configuração e suporte inicial.",
+    "questions": [
+      {
+        "id": "cidade",
+        "label": "Em qual município seria a instalação?",
+        "type": "choice",
+        "options": [
+          {
+            "value": "florianopolis",
+            "label": "Florianópolis"
+          },
+          {
+            "value": "outro",
+            "label": "Outro município"
+          }
+        ]
+      },
+      {
+        "id": "bairro",
+        "label": "Em qual bairro seria a instalação?",
+        "type": "short_text"
+      },
+      {
+        "id": "imovel",
+        "label": "Onde seria instalada?",
+        "type": "choice",
+        "options": [
+          {
+            "value": "apartamento",
+            "label": "Apartamento"
+          },
+          {
+            "value": "casa",
+            "label": "Casa"
+          },
+          {
+            "value": "outro",
+            "label": "Outro"
+          }
+        ]
+      },
+      {
+        "id": "faixa_preco",
+        "label": "A faixa indicativa de R$ 1.000 a R$ 1.200, já instalada, está dentro do investimento que considera?",
+        "type": "choice",
+        "options": [
+          {
+            "value": "sim",
+            "label": "Sim"
+          },
+          {
+            "value": "sim_parcelado",
+            "label": "Sim, dependendo do parcelamento"
+          },
+          {
+            "value": "nao",
+            "label": "Não"
+          }
+        ]
+      },
+      {
+        "id": "prazo",
+        "label": "Quando consideraria instalar?",
+        "type": "choice",
+        "options": [
+          {
+            "value": "ate_30",
+            "label": "Até 30 dias"
+          },
+          {
+            "value": "ate_90",
+            "label": "De 31 a 90 dias"
+          },
+          {
+            "value": "mais_90",
+            "label": "Depois de 90 dias"
+          },
+          {
+            "value": "pesquisando",
+            "label": "Estou apenas pesquisando"
+          }
+        ]
+      },
+      {
+        "id": "quer_avaliacao",
+        "label": "Gostaria de receber uma avaliação comercial da instalação?",
+        "type": "choice",
+        "options": [
+          {
+            "value": "sim",
+            "label": "Sim"
+          },
+          {
+            "value": "nao",
+            "label": "Não, por enquanto"
+          }
+        ]
+      }
+    ],
+    "contact_fields": [
+      "Nome",
+      "WhatsApp ou outro meio de contato escolhido"
+    ],
+    "consent": "Ao enviar, autorizo o contato para tratar de minha solicitação. Posso pedir para interromper o contato. A política de privacidade será informada antes da coleta.",
+    "privacy_policy_url": null
+  },
+  "experiment": {
+    "method": "Teste de headline A/B dentro de cada abordagem. Texto, criativo, público, orçamento e janela de avaliação iguais entre A e B. Testar abordagens em comparação separada.",
+    "hypothesis_metric": "Custo por interessado qualificado (não apenas custo por lead bruto)",
+    "qualifying_conditions": "Município Florianópolis + aceita faixa indicativa (inclusive parcelamento) + pretende instalar em até 90 dias + aceita avaliação comercial.",
+    "guardrails": [
+      "Nenhum anúncio será criado ou ativado nesta fase",
+      "Não alegar prevenção comprovada de invasões",
+      "Não citar estatísticas do estudo sem fonte acadêmica verificável",
+      "Não prometer funcionalidades além das confirmadas no modelo real",
+      "Histórico de acessos não substitui ponto eletrônico legal",
+      "Imagens reais de notificações devem ocultar dados pessoais",
+      "Não definir vencedor por pequenas diferenças sem volume de dados suficiente",
+      "Não utilizar características pessoais sensíveis para direcionamento"
+    ]
+  }
+}
