@@ -1,95 +1,79 @@
-# Piloto de interesse — Fechadura digital inteligente
+# Campanha da fechadura — proposta visual v2
 
-**Status:** RASCUNHO — não publicado; sem operações de escrita na Meta.
+**Rascunho, sem publicação.** Preço indicativo de R$ 1.000–1.200 com instalação, configuração e suporte inicial; condições exatas pendentes de confirmação. Florianópolis/SC.
 
-**Conta:** act_184261823230641
+**Princípio:** demonstrar primeiro, explicar depois. Três vídeos verticais de 15–20s, com um benefício por tomada, texto curto e imagens reais. Áudio discreto e legendas. Filmar a fechadura real, não simular interfaces falsas.
 
-**Região:** Florianópolis, SC, Brasil
+## 1. Demonstração da fechadura em ação
 
-**Objetivo:** Captação de interesse qualificado, não venda imediata
+**Legenda curta:** Sua porta pode fazer tudo isso. Instalada e com suporte em Florianópolis.
 
-**Oferta indicativa:** R$ 1.000–R$ 1.200, equipamento, instalação, configuração e suporte inicial.
+**Gancho A:** O reconhecimento facial destranca a porta.
 
-**Condição:** Faixa indicativa para produto, instalação, configuração e suporte inicial. Confirmar compatibilidade da porta, prazo do suporte e condições de parcelamento antes da publicação.
+**Gancho B:** Palma ou digital destranca a mesma porta.
 
-## Criativos e testes A/B
+| Tempo | O que aparece no vídeo | Texto na tela |
+|---|---|---|
+| 0–2s | Rosto reconhecido ou palma/digital desbloqueia a porta. | **Sem chave.** |
+| 2–6s | Mão empurra a porta e entra; corte para outro método de acesso. | **Ela reconhece você.** |
+| 6–10s | Celular recebe push real com nomes e horários anonimizados. | **Você sabe quem entrou.** |
+| 10–14s | App mostra configuração e porta trava automaticamente. | **Trava do seu jeito.** |
+| 14–18s | Fechadura premium na porta; tela final de preço/serviço. | **Instalada + suporte | R$ 1.000–1.200** |
 
-Cada par A/B modifica apenas a chamada (headline); o texto principal e o conceito visual permanecem iguais.
+**Orientação:** Close real do rosto/digital abrindo a porta + celular recebendo notificação + trava automática. Legendas curtas; 18s; 9:16.
 
-### Segurança e controle de acesso
+## 2. Controle de acesso à distância
 
-**Hipótese:** Controle de acesso, alertas e travamento configurável despertam interesse mesmo com fechadura tradicional funcionando.
+**Legenda curta:** Saiba quando alguém acessa sua casa. Fechadura instalada em Florianópolis.
 
-**Texto principal:** A sua porta pode fazer muito mais do que abrir e fechar. Conheça uma fechadura inteligente com travamento automático configurável, reconhecimento facial, digitais, alertas de tentativas de acesso e câmera que você consulta pelo celular. Em Florianópolis, com instalação, configuração e suporte inicial incluídos. Solução indicativa entre R$ 1.000 e R$ 1.200.
+**Gancho A:** Proprietário fecha a porta e recebe push ao sair.
 
-**Título A:** Sua porta pode oferecer muito mais controle
+**Gancho B:** Close no celular com push de acesso autorizado.
 
-**Título B:** Saiba quem acessa sua residência
+| Tempo | O que aparece no vídeo | Texto na tela |
+|---|---|---|
+| 0–2s | Morador sai para trabalhar; porta em close. | **Você saiu de casa.** |
+| 2–6s | Prestador autorizado abre com sua credencial individual. | **Alguém autorizado entrou.** |
+| 6–10s | Push e registros cronológicos exibidos no celular. | **Você é avisado.** |
+| 10–13s | Proprietário consulta câmera da entrada no celular. | **De onde estiver.** |
+| 13–17s | Plano limpo da fechadura com oferta. | **Instalada + suporte | R$ 1.000–1.200** |
 
-**Brief visual:** Demonstrar fechadura instalada e tela real de notificação, com dados pessoais ocultados. Sem dramatização de invasão.
+**Orientação:** Cena cotidiana de alguém saindo, acesso autorizado de prestador, push e histórico reais com dados anonimizados; 17s; 9:16.
 
-**CTA:** Saiba mais
+## 3. Família — acompanhamento respeitoso de idosos
 
-### Acompanhamento familiar
+**Legenda curta:** Acompanhe com tranquilidade, mesmo à distância. Instalação em Florianópolis.
 
-**Hipótese:** Notificações de entrada e controle remoto interessam famílias que acompanham, com consentimento, idosos que moram sozinhos.
+**Gancho A:** Mãe entra em casa e o filho recebe notificação.
 
-**Texto principal:** Mais tranquilidade para a família, mesmo à distância. Com acessos individuais cadastrados, a fechadura pode avisar quando alguém chegou, permitir verificar a entrada pelo celular e conferir o travamento da porta. Instalação, configuração e suporte inicial em Florianópolis. Faixa indicativa de R$ 1.000 a R$ 1.200.
+**Gancho B:** Celular mostra push fictício 'Mãe chegou' e corta para a porta.
 
-**Título A:** Acompanhamento familiar, mesmo de longe
+| Tempo | O que aparece no vídeo | Texto na tela |
+|---|---|---|
+| 0–3s | Idosa abre a porta sozinha; cena familiar com consentimento. | **Ela chegou em casa.** |
+| 3–7s | Familiar recebe push de acesso (nomes fictícios). | **Você fica sabendo.** |
+| 7–11s | Familiar confere o estado e tranca remotamente. | **Confere se está trancada.** |
+| 11–14s | Idosa segue rotina independente; clima acolhedor. | **Autonomia e tranquilidade.** |
+| 14–18s | Fechadura instalada com preço/serviço. | **Instalada + suporte | R$ 1.000–1.200** |
 
-**Título B:** Receba notícias de quem chegou em casa
+**Orientação:** Idosa entrando em casa, filho recebe push consentido e verifica travamento remoto; 18s; 9:16; sem dramatização.
 
-**Brief visual:** Cena cotidiana de familiar recebendo aviso consentido de acesso no celular, sem expor nome, foto ou horário real de pessoa.
+## Controle estático
 
-**CTA:** Saiba mais
+Imagem 4:5: Produto real instalado em ambiente residencial contemporâneo com pequeno smartphone exibindo push fictício. Sem grade de funcionalidades.
 
-### Gestão de acessos domésticos
+**Texto na imagem:** Sem chave. Com controle.
 
-**Hipótese:** Histórico individualizado de acessos e notificações interessa a moradores que recebem diaristas, cuidadores e prestadores durante suas ausências.
+**Rodapé:** Instalação e suporte em Florianópolis | R$ 1.000–1.200
 
-**Texto principal:** Você nem sempre está em casa quando alguém precisa entrar. Com acessos individuais, a fechadura registra eventos de desbloqueio e travamento, envia alertas configuráveis e permite consultar a câmera pelo celular. Conheça a solução instalada e configurada em Florianópolis, com suporte inicial incluído. Faixa indicativa de R$ 1.000 a R$ 1.200.
+## Teste
 
-**Título A:** Mais controle dos acessos à sua casa
+Primeiro comparamos os três **motivos de interesse** com vídeos. A peça estática funciona como referência de formato. Depois testamos duas aberturas de 2 segundos no **mesmo** vídeo, sem mexer no restante. Não presumir superioridade do vídeo; decidir pelo **custo por lead qualificado**.
 
-**Título B:** Histórico de acessos no seu celular
+## Qualificação
 
-**Brief visual:** Exibir histórico demonstrativo de eventos no aplicativo com identidades fictícias; não apresentar registros como controle de jornada.
+Preço aparece no final do vídeo e antes de preencher o formulário. Perguntas: município/bairro, aceitação do preço, prazo e desejo de avaliação. Contato mediante consentimento e política de privacidade.
 
-**CTA:** Saiba mais
+## Produção necessária
 
-## Formulário de interesse
-
-**Título:** Tenho interesse na fechadura inteligente instalada
-
-Quer avaliar a instalação de uma fechadura inteligente em Florianópolis? Deixe seus dados para receber informações e verificar compatibilidade. Faixa indicativa de R$ 1.000 a R$ 1.200, incluindo instalação, configuração e suporte inicial.
-
-- Em qual município seria a instalação? — Florianópolis / Outro município
-- Em qual bairro seria a instalação?
-- Onde seria instalada? — Apartamento / Casa / Outro
-- A faixa indicativa de R$ 1.000 a R$ 1.200, já instalada, está dentro do investimento que considera? — Sim / Sim, dependendo do parcelamento / Não
-- Quando consideraria instalar? — Até 30 dias / De 31 a 90 dias / Depois de 90 dias / Estou apenas pesquisando
-- Gostaria de receber uma avaliação comercial da instalação? — Sim / Não, por enquanto
-
-**Contato:** Nome, WhatsApp ou outro meio de contato escolhido
-
-**Consentimento:** Ao enviar, autorizo o contato para tratar de minha solicitação. Posso pedir para interromper o contato. A política de privacidade será informada antes da coleta.
-
-**Política de privacidade:** PENDENTE (URL obrigatória antes de publicar).
-
-## Regras do piloto
-
-**Teste:** Teste de headline A/B dentro de cada abordagem. Texto, criativo, público, orçamento e janela de avaliação iguais entre A e B. Testar abordagens em comparação separada.
-
-**Métrica principal:** Custo por interessado qualificado (não apenas custo por lead bruto)
-
-**Qualificação:** Município Florianópolis + aceita faixa indicativa (inclusive parcelamento) + pretende instalar em até 90 dias + aceita avaliação comercial.
-
-- Nenhum anúncio será criado ou ativado nesta fase
-- Não alegar prevenção comprovada de invasões
-- Não citar estatísticas do estudo sem fonte acadêmica verificável
-- Não prometer funcionalidades além das confirmadas no modelo real
-- Histórico de acessos não substitui ponto eletrônico legal
-- Imagens reais de notificações devem ocultar dados pessoais
-- Não definir vencedor por pequenas diferenças sem volume de dados suficiente
-- Não utilizar características pessoais sensíveis para direcionamento
+Gravar celular e fechadura em funcionamento real: desbloqueio por rosto, digital ou palma; push, histórico, câmera e travamento. Mostrar pessoas somente com consentimento. Nomes, horários e imagens de registros de moradores devem ser **fictícios ou anonimizados**. **Não usar os prints pessoais do usuário no repositório público.**

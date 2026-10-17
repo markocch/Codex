@@ -65,3 +65,10 @@ PYTHONPATH=src python -m unittest discover -s tests -v
 **Segurança:** a geração de rascunhos não executa requisições HTTP nem utiliza
 credenciais. A criação de anúncios e formulários reais continua bloqueada; requer
 aprovação comercial, URL de política de privacidade e permissões adicionais.
+
+## Revisão visual v2
+
+A proposta agora é **vídeo-first**, com três demonstrações de 15–20s e imagem estática de controle. A IA só prepara rascunhos; o sistema continua GET e não cria anúncios.
+
+- [Roteiros visuais](docs/CAMPANHA_FECHADURA.md)
+- [Pesquisa e referências](docs/REFERENCIAS_CRIATIVAS.md)

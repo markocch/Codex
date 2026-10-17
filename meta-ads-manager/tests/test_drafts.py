@@ -42,6 +42,16 @@ class DraftTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             validate_plan(broken)
 
+    def test_visual_first_plan(self):
+        self.assertEqual(self.plan["creative_strategy"]["priority"], "video_first")
+        self.assertEqual(len(self.plan["campaigns"]), 3)
+        for campaign in self.plan["campaigns"]:
+            self.assertTrue(campaign["scenes"])
+            self.assertTrue(campaign["scenes"][-1][0].endswith("s"))
+            self.assertLessEqual(len(campaign["primary_text"]), 110)
+            self.assertIn("9:16", campaign["visual_brief"])
+        self.assertIn("Vídeo: sequência visual", render_markdown(self.plan))
+
     def test_preview_and_cli(self):
         output = render_markdown(self.plan)
         self.assertIn("Florianópolis", output)

@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "project": "Piloto de interesse — Fechadura digital inteligente",
   "state": "draft",
   "read_only": true,
@@ -20,39 +20,126 @@
   ],
   "campaigns": [
     {
-      "id": "seguranca",
-      "name": "Segurança e controle de acesso",
-      "hypothesis": "Controle de acesso, alertas e travamento configurável despertam interesse mesmo com fechadura tradicional funcionando.",
-      "primary_text": "A sua porta pode fazer muito mais do que abrir e fechar. Conheça uma fechadura inteligente com travamento automático configurável, reconhecimento facial, digitais, alertas de tentativas de acesso e câmera que você consulta pelo celular. Em Florianópolis, com instalação, configuração e suporte inicial incluídos. Solução indicativa entre R$ 1.000 e R$ 1.200.",
-      "headline_a": "Sua porta pode oferecer muito mais controle",
-      "headline_b": "Saiba quem acessa sua residência",
-      "visual_brief": "Demonstrar fechadura instalada e tela real de notificação, com dados pessoais ocultados. Sem dramatização de invasão.",
-      "cta": "Saiba mais"
+      "id": "demonstracao",
+      "name": "Demonstração da fechadura em ação",
+      "hypothesis": "Ver o desbloqueio real e notificações desperta desejo mesmo sem necessidade anterior de troca.",
+      "primary_text": "Sua porta pode fazer tudo isso. Instalada e com suporte em Florianópolis.",
+      "headline_a": "Sua porta reconhece você.",
+      "headline_b": "Sem chave. Com controle.",
+      "visual_brief": "Close real do rosto/digital abrindo a porta + celular recebendo notificação + trava automática. Legendas curtas; 18s; 9:16.",
+      "cta": "Saiba mais",
+      "hook_a": "O reconhecimento facial destranca a porta.",
+      "hook_b": "Palma ou digital destranca a mesma porta.",
+      "scenes": [
+        [
+          "0–2s",
+          "Rosto reconhecido ou palma/digital desbloqueia a porta.",
+          "Sem chave."
+        ],
+        [
+          "2–6s",
+          "Mão empurra a porta e entra; corte para outro método de acesso.",
+          "Ela reconhece você."
+        ],
+        [
+          "6–10s",
+          "Celular recebe push real com nomes e horários anonimizados.",
+          "Você sabe quem entrou."
+        ],
+        [
+          "10–14s",
+          "App mostra configuração e porta trava automaticamente.",
+          "Trava do seu jeito."
+        ],
+        [
+          "14–18s",
+          "Fechadura premium na porta; tela final de preço/serviço.",
+          "Instalada + suporte | R$ 1.000–1.200"
+        ]
+      ]
     },
     {
-      "id": "familia_idosos",
-      "name": "Acompanhamento familiar",
-      "hypothesis": "Notificações de entrada e controle remoto interessam famílias que acompanham, com consentimento, idosos que moram sozinhos.",
-      "primary_text": "Mais tranquilidade para a família, mesmo à distância. Com acessos individuais cadastrados, a fechadura pode avisar quando alguém chegou, permitir verificar a entrada pelo celular e conferir o travamento da porta. Instalação, configuração e suporte inicial em Florianópolis. Faixa indicativa de R$ 1.000 a R$ 1.200.",
-      "headline_a": "Acompanhamento familiar, mesmo de longe",
-      "headline_b": "Receba notícias de quem chegou em casa",
-      "visual_brief": "Cena cotidiana de familiar recebendo aviso consentido de acesso no celular, sem expor nome, foto ou horário real de pessoa.",
-      "cta": "Saiba mais"
+      "id": "acessos",
+      "name": "Controle de acesso à distância",
+      "hypothesis": "A demonstração do push e histórico de acessos torna valioso monitorar entradas autorizadas na ausência.",
+      "primary_text": "Saiba quando alguém acessa sua casa. Fechadura instalada em Florianópolis.",
+      "headline_a": "Você saiu. O controle ficou.",
+      "headline_b": "Saiba quem acessou sua casa.",
+      "visual_brief": "Cena cotidiana de alguém saindo, acesso autorizado de prestador, push e histórico reais com dados anonimizados; 17s; 9:16.",
+      "cta": "Saiba mais",
+      "hook_a": "Proprietário fecha a porta e recebe push ao sair.",
+      "hook_b": "Close no celular com push de acesso autorizado.",
+      "scenes": [
+        [
+          "0–2s",
+          "Morador sai para trabalhar; porta em close.",
+          "Você saiu de casa."
+        ],
+        [
+          "2–6s",
+          "Prestador autorizado abre com sua credencial individual.",
+          "Alguém autorizado entrou."
+        ],
+        [
+          "6–10s",
+          "Push e registros cronológicos exibidos no celular.",
+          "Você é avisado."
+        ],
+        [
+          "10–13s",
+          "Proprietário consulta câmera da entrada no celular.",
+          "De onde estiver."
+        ],
+        [
+          "13–17s",
+          "Plano limpo da fechadura com oferta.",
+          "Instalada + suporte | R$ 1.000–1.200"
+        ]
+      ]
     },
     {
-      "id": "prestadores",
-      "name": "Gestão de acessos domésticos",
-      "hypothesis": "Histórico individualizado de acessos e notificações interessa a moradores que recebem diaristas, cuidadores e prestadores durante suas ausências.",
-      "primary_text": "Você nem sempre está em casa quando alguém precisa entrar. Com acessos individuais, a fechadura registra eventos de desbloqueio e travamento, envia alertas configuráveis e permite consultar a câmera pelo celular. Conheça a solução instalada e configurada em Florianópolis, com suporte inicial incluído. Faixa indicativa de R$ 1.000 a R$ 1.200.",
-      "headline_a": "Mais controle dos acessos à sua casa",
-      "headline_b": "Histórico de acessos no seu celular",
-      "visual_brief": "Exibir histórico demonstrativo de eventos no aplicativo com identidades fictícias; não apresentar registros como controle de jornada.",
-      "cta": "Saiba mais"
+      "id": "idosos",
+      "name": "Família — acompanhamento respeitoso de idosos",
+      "hypothesis": "Os filhos valorizam aviso de chegada e checagem de porta sem retirar a autonomia dos pais.",
+      "primary_text": "Acompanhe com tranquilidade, mesmo à distância. Instalação em Florianópolis.",
+      "headline_a": "Ela chegou. Você sabe.",
+      "headline_b": "Mais tranquilidade à família.",
+      "visual_brief": "Idosa entrando em casa, filho recebe push consentido e verifica travamento remoto; 18s; 9:16; sem dramatização.",
+      "cta": "Saiba mais",
+      "hook_a": "Mãe entra em casa e o filho recebe notificação.",
+      "hook_b": "Celular mostra push fictício 'Mãe chegou' e corta para a porta.",
+      "scenes": [
+        [
+          "0–3s",
+          "Idosa abre a porta sozinha; cena familiar com consentimento.",
+          "Ela chegou em casa."
+        ],
+        [
+          "3–7s",
+          "Familiar recebe push de acesso (nomes fictícios).",
+          "Você fica sabendo."
+        ],
+        [
+          "7–11s",
+          "Familiar confere o estado e tranca remotamente.",
+          "Confere se está trancada."
+        ],
+        [
+          "11–14s",
+          "Idosa segue rotina independente; clima acolhedor.",
+          "Autonomia e tranquilidade."
+        ],
+        [
+          "14–18s",
+          "Fechadura instalada com preço/serviço.",
+          "Instalada + suporte | R$ 1.000–1.200"
+        ]
+      ]
     }
   ],
   "lead_form": {
     "title": "Tenho interesse na fechadura inteligente instalada",
-    "intro": "Quer avaliar a instalação de uma fechadura inteligente em Florianópolis? Deixe seus dados para receber informações e verificar compatibilidade. Faixa indicativa de R$ 1.000 a R$ 1.200, incluindo instalação, configuração e suporte inicial.",
+    "intro": "Fechadura inteligente instalada, configurada e com suporte inicial em Florianópolis. Faixa indicativa de R$ 1.000 a R$ 1.200. Quer avaliar sua porta?",
     "questions": [
       {
         "id": "cidade",
@@ -159,7 +246,7 @@
     "privacy_policy_url": null
   },
   "experiment": {
-    "method": "Teste de headline A/B dentro de cada abordagem. Texto, criativo, público, orçamento e janela de avaliação iguais entre A e B. Testar abordagens em comparação separada.",
+    "method": "Teste de três histórias em vídeos demonstrativos; uma imagem estática como referência. Depois A/B apenas dos primeiros 2 segundos, mantendo o restante e o formulário idênticos.",
     "hypothesis_metric": "Custo por interessado qualificado (não apenas custo por lead bruto)",
     "qualifying_conditions": "Município Florianópolis + aceita faixa indicativa (inclusive parcelamento) + pretende instalar em até 90 dias + aceita avaliação comercial.",
     "guardrails": [
@@ -170,7 +257,32 @@
       "Histórico de acessos não substitui ponto eletrônico legal",
       "Imagens reais de notificações devem ocultar dados pessoais",
       "Não definir vencedor por pequenas diferenças sem volume de dados suficiente",
-      "Não utilizar características pessoais sensíveis para direcionamento"
+      "Não utilizar características pessoais sensíveis para direcionamento",
+      "Não publicar registros reais de acessos com dados identificáveis",
+      "Não tratar notificações de acesso como ponto eletrônico oficial",
+      "Não afirmar redução comprovada de crimes",
+      "Não concluir que vídeo supera imagem sem teste local"
     ]
+  },
+  "creative_strategy": {
+    "priority": "video_first",
+    "video_format": "9:16",
+    "video_duration": "15–20s",
+    "first_hook_seconds": 2,
+    "principle": "Mostrar uma função real antes de explicar; texto na tela de no máximo 6 palavras; som opcional com legendas.",
+    "formats": [
+      "3 vídeos demonstrativos",
+      "1 imagem estática 4:5 de comparação"
+    ],
+    "testing": "Primeiro testar histórias. Depois variar somente os 2s iniciais do conceito vencedor. Comparar vídeo contra imagem com mesma mensagem.",
+    "quality_metric": "Custo por interessado qualificado",
+    "price_location": "Oferta e faixa de preço exibidas na tela final e no formulário."
+  },
+  "static_control": {
+    "format": "image",
+    "ratio": "4:5",
+    "brief": "Produto real instalado em ambiente residencial contemporâneo com pequeno smartphone exibindo push fictício. Sem grade de funcionalidades.",
+    "headline": "Sem chave. Com controle.",
+    "footer": "Instalação e suporte em Florianópolis | R$ 1.000–1.200"
   }
 }

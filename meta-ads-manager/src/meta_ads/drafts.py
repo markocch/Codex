@@ -81,6 +81,11 @@ def render_markdown(plan):
             "**Brief visual:** " + c["visual_brief"], "",
             "**CTA:** " + c["cta"], ""
         ])
+        if c.get("scenes"):
+            lines.extend(["**Vídeo: sequência visual**", ""])
+            for timing, shot, overlay in c["scenes"]:
+                lines.append("- {}: {} — **{}**".format(timing, shot, overlay))
+            lines.append("")
     form = plan["lead_form"]
     lines.extend(["## Formulário de interesse", "", "**Título:** " + form["title"], "",
                   form["intro"], ""])
