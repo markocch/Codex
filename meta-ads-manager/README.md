@@ -72,3 +72,9 @@ A proposta agora é **vídeo-first**, com três demonstrações de 15–20s e im
 
 - [Roteiros visuais](docs/CAMPANHA_FECHADURA.md)
 - [Pesquisa e referências](docs/REFERENCIAS_CRIATIVAS.md)
+
+## Google Analytics 4
+
+Cliente direto opcional para relatórios de sessões, engajamento, eventos
+principais e receita por campanha, origem e página. Veja [configuração GA4](docs/GA4.md).
+A API Google usa POST de leitura; as chamadas Meta permanecem somente GET.
